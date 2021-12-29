@@ -51,7 +51,3 @@ https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-us
 https://www.gatsbyjs.org/tutorial/part-four/
 
 https://redux.js.org/advanced/example-reddit-api
-
-## Contributing
-
-Feel free to open issues and pull requests!
